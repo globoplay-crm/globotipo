@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'globotipo_textoblack';
+    src: url('globotipotexto-black-webfont.woff2') format('woff2'),
+         url('globotipotexto-black-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'globotipo_textobold';
+    src: url('globotipotexto-bold-webfont.woff2') format('woff2'),
+         url('globotipotexto-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'globotipo_textoregular';
+    src: url('globotipotexto-regular-webfont.woff2') format('woff2'),
+         url('globotipotexto-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+@font-face {
+    font-family: 'globotipo_textolight';
+    src: url('globotipotexto-light-webfont.woff2') format('woff2'),
+         url('globotipotexto-light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
