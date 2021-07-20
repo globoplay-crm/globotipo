@@ -80,3 +80,18 @@
   	font-weight: normal;
   	font-style: normal;
 }
+@font-face {
+  	font-family: 'Futura-Condensed-Normal';
+  	src:   url('Futura-Condensed-Normal.woff') format('woff'),
+	      url('Futura-Condensed-Normal.woff2')  format('woff2');
+  	font-weight: normal;
+  	font-style: normal;
+}
+
+@font-face {
+  	font-family: 'Futura-CondensedLight-Normal';
+  	src:   url('Futura-CondensedLight-Normal.woff') format('woff'),
+	      url('Futura-CondensedLight-Normal.woff2')  format('woff2');
+  	font-weight: normal;
+  	font-style: normal;
+}
