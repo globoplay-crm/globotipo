@@ -57,4 +57,26 @@
   	font-style: normal;
 }
 
+@font-face {
+  	font-family: 'Futura Std';
+  	src:   url('FuturaStd-CondensedBold.woff') format('woff'),
+	      url('FuturaStd-CondensedBold.woff2')  format('woff2');
+  	font-weight: bold;
+  	font-style: normal;
+}
 
+@font-face {
+  	font-family: 'Globotipo Condensada Regular';
+  	src:   url('GlobotipoCondensada-Regular.woff') format('woff'),
+	      url('GlobotipoCondensada-Regular.woff2')  format('woff2');
+  	font-weight: normal;
+  	font-style: normal;
+}
+
+@font-face {
+  	font-family: 'Globotipo Condensada Thin';
+  	src:   url('GlobotipoCondensada-Thin.woff') format('woff'),
+	      url('GlobotipoCondensada-Thin.woff2')  format('woff2');
+  	font-weight: normal;
+  	font-style: normal;
+}
